@@ -1,0 +1,19 @@
+# Ignore .env file containing sensitive credentials
+.env
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+__venv__
+
+# Ignore logs
+*.log
+
+# Ignore other unnecessary files
+*.db
+*.sqlite3
